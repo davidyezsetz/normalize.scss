@@ -2,6 +2,10 @@
   "name": "normalize.scss",
   "version": "3.0.3",
   "description": "This package only exists because it's not possible to import css files with SASS 3.X",
+  "devDependencies": "normalize.css",
+  "engines": {
+    "node": ">=0.12.0"
+  },
   "style": "normalize.scss",
   "files": [
     "LICENSE.md",
