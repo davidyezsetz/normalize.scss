@@ -1,0 +1,17 @@
+{
+  "name": "normalize.scss",
+  "version": "3.0.3",
+  "description": "This package only exists because it's not possible to import css files with SASS 3.X",
+  "style": "normalize.scss",
+  "files": [
+    "LICENSE.md",
+    "normalize.scss"
+  ],
+  "homepage": "http://necolas.github.io/normalize.css",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davidyezsetz/normalize.scss"
+  },
+  "author": "David Setz",
+  "license": "MIT"
+}
