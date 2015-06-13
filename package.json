@@ -1,5 +1,5 @@
 {
-  "name": "normalize.scss",
+  "name": "scssnormalize",
   "version": "3.0.3",
   "description": "This package only exists because it's not possible to import css files with SASS 3.X",
   "style": "normalize.scss",
