@@ -2,20 +2,25 @@
   "name": "normalize.scss",
   "version": "3.0.3",
   "description": "This package only exists because it's not possible to import css files with SASS 3.X",
-  "devDependencies": "normalize.css",
-  "engines": {
-    "node": ">=0.12.0"
-  },
   "style": "normalize.scss",
-  "files": [
-    "LICENSE.md",
-    "normalize.scss"
-  ],
-  "homepage": "http://necolas.github.io/normalize.css",
+  "devDependencies": {
+    "normalize.css": ">=3.0.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/davidyezsetz/normalize.scss"
   },
-  "author": "David Setz",
-  "license": "MIT"
+  "files": [
+    "LICENSE.md",
+    "normalize.scss"
+  ],
+  "author": "David Setz <davidyezsetz@gmail.com> (http://davidsetz.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidyezsetz/normalize.scss/issues"
+  },
+  "homepage": "https://github.com/davidyezsetz/normalize.scss"
 }
